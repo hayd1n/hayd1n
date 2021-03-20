@@ -4,4 +4,6 @@
 <h3 align="center">CISH Robotics Team 君毅中學機器人團隊</h3>
 <h4 align="center">A student developer from Taiwan</h4>
 
-![CRT_HAO's github stats](https://github-readme-stats.vercel.app/api?username=iqv29&show_icons=true&theme=dracula&hide=stars,issues)
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=iqv29&theme=radical&show_icons=true" alt="CRT_HAO's Github Stats" />
+</p>
