@@ -10,4 +10,4 @@
 - 👍 I'm still good at: **LabVIEW**
 - 💬 Contact me: [@CRT_HAO](https://t.me/crt_hao) on Telegram
 
-<img src="https://github-readme-stats.vercel.app/api?username=iqv29&theme=default&show_icons=true" alt="CRT_HAO's Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=CRT_HAO&theme=default&show_icons=true" alt="CRT_HAO's Github Stats" />
