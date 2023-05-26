@@ -5,7 +5,7 @@
 <h4 align="center">A student developer from Taiwan🇹🇼</h4>
 
 - 😄 My Pronouns: He/Him
-- 🌱 I’m currently learning: **Javascript, C/C++**
+- 🌱 I’m currently learning: **Javascript, C/C++, Rust**
 - 💕 My favorites: **Python, Go, PHP, HTML, CSS**
 - 👍 I'm still good at: **LabVIEW**
 - 💬 Contact me: [@CRT_HAO](https://t.me/crt_hao) on Telegram
