@@ -1,6 +1,6 @@
 ![HAO](https://user-images.githubusercontent.com/31580253/111883320-836ec680-89f5-11eb-829b-87a4ad779226.png)
 
-<h1 align="center">Hi 👋, I'm HAO(張皓鈞)</h1>
+<h1 align="center">Hi 👋, I'm Hayden Chang (張皓鈞)</h1>
 <h3 align="center"><a href="https://www.ntust.edu.tw/" target="_blank">National Taiwan University of Science and Technology</a></h3>
 <h4 align="center">Computer Science Student</h4>
 
