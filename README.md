@@ -9,7 +9,7 @@
 - 💕 My favorites: **Go, Python, JavaScript/TypeScript, C/C++**
 - 👍 I'm still good at: **LabVIEW**
 - 💬 Contact me: [@CRT_HAO](https://t.me/crt_hao) on Telegram
-- 🌎 Personal Website: [I'm HAO](https://crt-hao.github.io)
+- 🌎 Personal Website: [I'm Hayden](https://crt-hao.github.io)
 - 🖥 Linkedin: [張皓鈞](https://www.linkedin.com/in/crthao)
 
 <img src="https://github-readme-stats.vercel.app/api?username=CRT-HAO&theme=default&show_icons=true" alt="CRT-HAO's Github Stats" />
