@@ -3,7 +3,7 @@
   <img alt="Cover" src="https://github.com/CRT-HAO/CRT-HAO/assets/31580253/4efdfca0-1005-43ab-8c60-07e6973a89b2">
 </picture>
 
-Hello! I am from Taiwan and currently a student at the National Taiwan University of Science and Technology. I am passionate about programming and the open-source spirit. I love creating cool things.
+Hello! I am from Taiwan and currently a student at the [National Taiwan University of Science and Technology](https://www.ntust.edu.tw/). I am passionate about programming and the open-source spirit. I love creating cool things.
 
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-%23000000.svg?style=for-the-badge)](https://hayden.tw/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/CRT.HAO.CHUN/)
