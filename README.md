@@ -56,6 +56,79 @@ Hello! I am from Taiwan and currently a student at the National Taiwan Universit
 ![Helix](https://img.shields.io/badge/Helix-281733?style=for-the-badge&logo=helix&logoColor=white)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 520.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 160 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 39 Public Repositories 
+ > 
+> 🔑 35 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+🌆 Daytime                927 commits         ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+🌃 Evening                821 commits         ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+🌙 Night                  1109 commits        █████████░░░░░░░░░░░░░░░░   34.27 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Tuesday                  342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Wednesday                662 commits         █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+Thursday                 437 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Friday                   270 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Saturday                 702 commits         █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Sunday                   455 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in C++** 
+
+```text
+TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Svelte                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Go                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/CRT-HAO/CRT-HAO/main/assets/bar_graph.png)
+
+
+ Last Updated on 07/07/2024 05:01:19 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
