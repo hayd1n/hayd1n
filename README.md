@@ -85,16 +85,24 @@ Sunday                   458 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       1 hr 46 mins        █████████████░░░░░░░░░░░░   52.48 % 
+TypeScript               1 hr 12 mins        █████████░░░░░░░░░░░░░░░░   36.05 % 
+TOML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+TSConfig                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+server                   1 hr 57 mins        ██████████████░░░░░░░░░░░   57.85 % 
+tester                   1 hr 18 mins        ██████████░░░░░░░░░░░░░░░   38.79 % 
+tester-plugin            5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+ntust-course-selection-as1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -114,7 +122,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CRT-HAO/CRT-HAO/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2024 10:48:51 UTC
+ Last Updated on 07/07/2024 16:10:05 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
