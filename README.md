@@ -55,6 +55,8 @@ Hello! I am from Taiwan and currently a student at the National Taiwan Universit
 ![Zed](https://img.shields.io/badge/Zed-F6F5F0?style=for-the-badge&logo=zed&logoColor=black)
 ![Helix](https://img.shields.io/badge/Helix-281733?style=for-the-badge&logo=helix&logoColor=white)
 
+## 📊 Analysis
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
