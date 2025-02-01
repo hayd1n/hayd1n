@@ -85,17 +85,16 @@ Sunday                   418 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    2 mins              ███████████████████████░░   93.56 % 
-TypeScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-config_user.txt          2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -115,7 +114,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2025 23:14:27 UTC
+ Last Updated on 01/02/2025 23:14:53 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
