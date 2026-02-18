@@ -85,23 +85,16 @@ Sunday                   392 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Go                       3 hrs 37 mins       █████████████████████░░░░   83.54 % 
-TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 20 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ips-firewall-svc         2 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.56 % 
-onl-api                  1 hr 54 mins        ███████████░░░░░░░░░░░░░░   44.07 % 
-onl-web                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-onl-vm                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 20 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -121,7 +114,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2026 23:29:21 UTC
+ Last Updated on 18/02/2026 23:30:01 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
