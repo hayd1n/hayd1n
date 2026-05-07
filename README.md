@@ -85,16 +85,22 @@ Sunday                   392 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       1 hr 35 mins        ████████████████████░░░░░   79.17 % 
+Rust                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+alert-log-svc            1 hr 42 mins        █████████████████████░░░░   84.56 % 
+mvdis-license-plate-query18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 42 mins        █████████████████████░░░░   84.56 % 
+Mac                      18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
 ```
 
 **I Mostly Code in Svelte** 
@@ -114,7 +120,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2026 23:49:02 UTC
+ Last Updated on 07/05/2026 23:55:13 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
