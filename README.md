@@ -85,23 +85,25 @@ Sunday                   391 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-BlitzBasic               2 hrs 14 mins       ██████████████░░░░░░░░░░░   57.81 % 
-Other                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Pawn                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-BitBake                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+BlitzBasic               1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   40.81 % 
+Pawn                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+YAML                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Other                    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+BitBake                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 
 🔥 Editors: 
-VS Code                  1 hr 59 mins        █████████████░░░░░░░░░░░░   51.66 % 
-Antigravity CLI          59 mins             ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-Copilot CLI              52 mins             ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+VS Code                  2 hrs 4 mins        ███████████████░░░░░░░░░░   58.27 % 
+Antigravity CLI          1 hr                ███████░░░░░░░░░░░░░░░░░░   28.53 % 
+Copilot CLI              28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
 
 🐱‍💻 Projects: 
-aips-distro              3 hrs 47 mins       █████████████████████████   98.24 % 
-license-portal-frontend  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+aips-distro              3 hrs               █████████████████████░░░░   84.42 % 
+rime                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+license-portal-frontend  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+rime_bak                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Linux                    3 hrs 51 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Svelte** 
@@ -121,7 +123,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2026 00:07:51 UTC
+ Last Updated on 07/07/2026 23:59:14 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
