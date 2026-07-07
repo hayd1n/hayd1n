@@ -85,23 +85,23 @@ Sunday                   391 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-BlitzBasic               3 hrs 7 mins        ███████████░░░░░░░░░░░░░░   44.00 % 
-Other                    1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-YAML                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Pawn                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-BitBake                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+BlitzBasic               2 hrs 14 mins       ██████████████░░░░░░░░░░░   57.81 % 
+Other                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Pawn                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+BitBake                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 41 mins       █████████████░░░░░░░░░░░░   51.77 % 
-Antigravity CLI          1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
-Copilot CLI              1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+VS Code                  1 hr 59 mins        █████████████░░░░░░░░░░░░   51.66 % 
+Antigravity CLI          59 mins             ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+Copilot CLI              52 mins             ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
 
 🐱‍💻 Projects: 
-aips-distro              7 hrs 2 mins        █████████████████████████   99.05 % 
-license-portal-frontend  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+aips-distro              3 hrs 47 mins       █████████████████████████   98.24 % 
+license-portal-frontend  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 💻 Operating System: 
-Linux                    7 hrs 7 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Svelte** 
@@ -121,7 +121,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2026 00:06:31 UTC
+ Last Updated on 07/07/2026 00:07:51 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
