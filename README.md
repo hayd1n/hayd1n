@@ -108,11 +108,11 @@ Linux                    3 hrs 4 mins        ███████████�
 **I Mostly Code in Svelte** 
 
 ```text
-Svelte                   20 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-TypeScript               16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Rust                     14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Svelte                   20 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+TypeScript               16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Rust                     14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 ```
 
 
@@ -122,7 +122,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2026 23:58:36 UTC
+ Last Updated on 11/07/2026 23:54:36 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
