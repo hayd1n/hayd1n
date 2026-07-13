@@ -85,20 +85,21 @@ Sunday                   391 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-YAML                     1 hr 35 mins        █████████████░░░░░░░░░░░░   51.60 % 
-Pawn                     42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+YAML                     1 hr 35 mins        █████████████░░░░░░░░░░░░   51.55 % 
+Pawn                     42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
 BlitzBasic               34 mins             █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 16 mins       ██████████████████░░░░░░░   73.84 % 
-Antigravity CLI          48 mins             ███████░░░░░░░░░░░░░░░░░░   26.16 % 
+VS Code                  2 hrs 16 mins       ██████████████████░░░░░░░   73.79 % 
+Antigravity CLI          48 mins             ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-aips-distro              1 hr 51 mins        ███████████████░░░░░░░░░░   60.39 % 
-oci                      43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-rime                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+aips-distro              1 hr 51 mins        ███████████████░░░░░░░░░░   60.43 % 
+oci                      43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+rime                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
 rime_bak                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
@@ -122,7 +123,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2026 23:52:20 UTC
+ Last Updated on 13/07/2026 23:54:18 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
