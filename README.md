@@ -58,6 +58,51 @@ Hello! I am from Taiwan and currently a student at the [National Taiwan Universi
 ## 📊 Analysis
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                338 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+🌆 Daytime                1162 commits        ████████░░░░░░░░░░░░░░░░░   32.60 % 
+🌃 Evening                837 commits         ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+🌙 Night                  1227 commits        █████████░░░░░░░░░░░░░░░░   34.43 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Tuesday                  442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Wednesday                769 commits         █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+Thursday                 540 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Friday                   343 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Saturday                 716 commits         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+Sunday                   391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+BlitzBasic               2 hrs 11 mins       ██████████████████████░░░   87.81 % 
+YAML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 24 mins       ████████████████████████░   96.32 % 
+Copilot CLI              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+
+🐱‍💻 Projects: 
+aips-distro              2 hrs 14 mins       ██████████████████████░░░   89.61 % 
+oci                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+license-portal-backend   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+
+💻 Operating System: 
+Linux                    2 hrs 30 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Svelte** 
 
 ```text
@@ -75,7 +120,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2026 23:59:30 UTC
+ Last Updated on 16/07/2026 23:58:47 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
