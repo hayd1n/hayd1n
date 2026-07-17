@@ -85,22 +85,23 @@ Sunday                   391 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-BlitzBasic               2 hrs 11 mins       ██████████████████████░░░   87.81 % 
-YAML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+BlitzBasic               1 hr 57 mins        ██████████████████░░░░░░░   71.94 % 
+YAML                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+INI                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 24 mins       ████████████████████████░   96.32 % 
-Copilot CLI              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+VS Code                  2 hrs 20 mins       ██████████████████████░░░   86.22 % 
+Antigravity CLI          18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Copilot CLI              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🐱‍💻 Projects: 
-aips-distro              2 hrs 14 mins       ██████████████████████░░░   89.61 % 
-oci                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-license-portal-backend   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+aips-distro              2 hrs 40 mins       █████████████████████████   98.48 % 
+license-portal-backend   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+oci                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Linux                    2 hrs 30 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Svelte** 
@@ -120,7 +121,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2026 23:58:47 UTC
+ Last Updated on 17/07/2026 23:52:57 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
