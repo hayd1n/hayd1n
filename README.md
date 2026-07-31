@@ -58,7 +58,7 @@ Hello! I am from Taiwan and currently a student at the [National Taiwan Universi
 ## 📊 Analysis
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20hrs%2055%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -87,55 +87,54 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-BitBake                  2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Other                    2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-BlitzBasic               1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-YAML                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-TypeScript               1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+BitBake                  2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Other                    2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Pawn                     2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+YAML                     1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+TypeScript               1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 13 mins      ██████████████████░░░░░░░   71.63 % 
-Antigravity Desktop      2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Copilot CLI              1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Opencode Cli             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+VS Code                  10 hrs 43 mins      ██████████████████░░░░░░░   72.56 % 
+Antigravity Desktop      2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Copilot CLI              1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Opencode Cli             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🐱‍💻 Projects: 
-aips-distro              9 hrs 12 mins       ████████████████░░░░░░░░░   64.53 % 
-kaneo                    2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-onl-vm                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-license-portal-frontend  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-license-portal-backend   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+aips-distro              9 hrs 46 mins       █████████████████░░░░░░░░   66.19 % 
+kaneo                    2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+onl-vm                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+license-portal-frontend  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+license-portal-backend   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 💻 Operating System: 
-Linux                    11 hrs 36 mins      ████████████████████░░░░░   81.33 % 
-Mac                      2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+Linux                    11 hrs 48 mins      ████████████████████░░░░░   79.93 % 
+Mac                      2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 23 mins (86.77%)
+⏱ AI Coding Time: 12 hrs 52 mins (87.08%)
 
-✍️ 1,462 lines written by AI, 104 lines written by hand (93.36% AI-written)
+✍️ 1,676 lines written by AI, 140 lines written by hand (92.29% AI-written)
 
-🔤 42,497,305 Input Tokens, 237,319 Output Tokens
+🔤 50,069,779 Input Tokens, 285,446 Output Tokens
 
-💵 $217.57 Estimated AI Cost This Week
+💵 $256.87 Estimated AI Cost This Week
 
-🧠 60 AI Sessions, 194 AI Prompts
+🧠 52 AI Sessions, 183 AI Prompts
 
-GPT                      1,494 lines         ███████████████████████░░   93.43 % 
-Antigravity-Desktop      49 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Opus                     34 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Gemini                   22 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+GPT                      1,737 lines         ████████████████████████░   94.30 % 
+Antigravity-Desktop      49 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Opus                     34 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Gemini                   22 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.36% of written lines came from AI
-📄 Detailed Prompter — average 989 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 6.55% of changed lines were hand-edited
+🤖 AI-Driven — 92.29% of written lines came from AI
+📄 Detailed Prompter — average 859 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 8.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
@@ -155,7 +154,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 00:01:23 UTC
+ Last Updated on 31/07/2026 00:02:24 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
