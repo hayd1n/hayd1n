@@ -58,26 +58,24 @@ Hello! I am from Taiwan and currently a student at the [National Taiwan Universi
 ## 📊 Analysis
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%2021%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                317 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-🌆 Daytime                985 commits         ████████░░░░░░░░░░░░░░░░░   30.45 % 
-🌃 Evening                732 commits         ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-🌙 Night                  1201 commits        █████████░░░░░░░░░░░░░░░░   37.13 % 
+🌞 Morning                308 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+🌆 Daytime                941 commits         ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+🌃 Evening                732 commits         ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+🌙 Night                  1201 commits        █████████░░░░░░░░░░░░░░░░   37.74 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Tuesday                  375 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Wednesday                723 commits         ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-Thursday                 465 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Friday                   302 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Saturday                 665 commits         █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-Sunday                   381 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Monday                   311 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Tuesday                  370 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Wednesday                709 commits         ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+Thursday                 456 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Friday                   290 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Saturday                 665 commits         █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+Sunday                   381 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
 ```
 
 
@@ -87,61 +85,59 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-BlitzBasic               3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-Go                       2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Other                    1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Pawn                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Rust                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+BlitzBasic               4 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   30.44 % 
+Go                       2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Other                    1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Rust                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Pawn                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 9 mins       ██████████████████████░░░   86.96 % 
-Copilot CLI              1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Antigravity Desktop      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+VS Code                  12 hrs 34 mins      ██████████████████████░░░   87.52 % 
+Copilot CLI              1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
 Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🐱‍💻 Projects: 
-aips-distro              8 hrs 38 mins       ███████████████░░░░░░░░░░   61.76 % 
-oci                      1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-line-electron            1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-oring-eips-api           52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-task-manager-svc         29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+aips-distro              9 hrs 21 mins       ████████████████░░░░░░░░░   65.16 % 
+oci                      1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+line-electron            1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+oring-eips-api           52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+task-manager-svc         29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 
 💻 Operating System: 
-Linux                    13 hrs 38 mins      ████████████████████████░   97.55 % 
-Mac                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Linux                    14 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 24 mins (74.44%)
+⏱ AI Coding Time: 10 hrs 41 mins (74.4%)
 
-✍️ 4,178 lines written by AI, 530 lines written by hand (88.74% AI-written)
+✍️ 4,342 lines written by AI, 537 lines written by hand (88.99% AI-written)
 
-🔤 84,295,996 Input Tokens, 591,451 Output Tokens
+🔤 104,186,779 Input Tokens, 625,919 Output Tokens
 
-💵 $337.96 Estimated AI Cost This Week
+💵 $437.75 Estimated AI Cost This Week
 
-🧠 61 AI Sessions, 141 AI Prompts
+🧠 66 AI Sessions, 147 AI Prompts
 
-GPT                      3,827 lines         █████████████████████████   100.00 % 
+GPT                      3,989 lines         █████████████████████████   100.00 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.74% of written lines came from AI
-📄 Detailed Prompter — average 1,219 characters per prompt
+🤖 AI-Driven — 88.99% of written lines came from AI
+📄 Detailed Prompter — average 1,320 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 17.44% of changed lines were hand-edited
+🚀 High AI Trust — 17.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
 
 ```text
-Svelte                   19 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Rust                     15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-TypeScript               15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Svelte                   19 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+TypeScript               15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Rust                     14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 ```
 
 
@@ -151,7 +147,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 23:59:36 UTC
+ Last Updated on 07/08/2026 01:45:19 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
