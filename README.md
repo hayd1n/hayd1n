@@ -87,49 +87,49 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-BlitzBasic               4 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-Go                       3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Other                    1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-BitBake                  1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-INI                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Go                       3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+BlitzBasic               2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Other                    2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+BitBake                  1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+INI                      1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 20 mins      ██████████████████████░░░   87.42 % 
-Copilot CLI              2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+VS Code                  12 hrs 29 mins      ██████████████████████░░░   89.15 % 
+Copilot CLI              1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
 
 🐱‍💻 Projects: 
-aips-distro              10 hrs 31 mins      ████████████████░░░░░░░░░   64.16 % 
-oci                      1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-line-electron            1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-snort-svc                53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-oring-eips-api           52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+aips-distro              9 hrs 29 mins       █████████████████░░░░░░░░   67.75 % 
+snort-svc                1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+oci                      1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+oring-eips-api           52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+alert-log-svc            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 💻 Operating System: 
-Linux                    16 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 38 mins (77.1%)
+⏱ AI Coding Time: 10 hrs 49 mins (77.17%)
 
-✍️ 3,784 lines written by AI, 564 lines written by hand (87.03% AI-written)
+✍️ 1,745 lines written by AI, 456 lines written by hand (79.28% AI-written)
 
-🔤 86,433,744 Input Tokens, 621,343 Output Tokens
+🔤 56,825,868 Input Tokens, 563,939 Output Tokens
 
-💵 $364.01 Estimated AI Cost This Week
+💵 $229.78 Estimated AI Cost This Week
 
-🧠 71 AI Sessions, 162 AI Prompts
+🧠 66 AI Sessions, 148 AI Prompts
 
-GPT                      3,499 lines         █████████████████████████   100.00 % 
+GPT                      1,420 lines         █████████████████████████   100.00 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.03% of written lines came from AI
-📚 Verbose Prompter — average 2,271 characters per prompt
+🤖 AI-Driven — 79.28% of written lines came from AI
+📚 Verbose Prompter — average 2,502 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 20.1% of changed lines were hand-edited
+🚀 High AI Trust — 31.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
@@ -149,7 +149,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 23:29:51 UTC
+ Last Updated on 10/08/2026 23:33:44 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
