@@ -58,7 +58,7 @@ Hello! I am from Taiwan and currently a student at the [National Taiwan Universi
 ## 📊 Analysis
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-72%20hrs%2029%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -87,50 +87,50 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Go                       3 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   26.64 % 
-Other                    3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-BlitzBasic               1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Pawn                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-INI                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Go                       3 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.42 % 
+Other                    2 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+BlitzBasic               1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+INI                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Pawn                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 21 mins       ██████████████████░░░░░░░   73.40 % 
-Codex Vscode             1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Copilot CLI              1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+VS Code                  7 hrs 39 mins       ██████████████████░░░░░░░   70.75 % 
+Codex Vscode             1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Copilot CLI              1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
 
 🐱‍💻 Projects: 
-aips-distro              9 hrs 16 mins       ██████████████████░░░░░░░   72.66 % 
-onl-api                  1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-snort-svc                1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-ips-firewall-svc         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-task-manager-svc         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+aips-distro              7 hrs 19 mins       █████████████████░░░░░░░░   67.75 % 
+onl-api                  1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+snort-svc                1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+ips-firewall-svc         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+task-manager-svc         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Linux                    12 hrs 45 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 9 mins (79.56%)
+⏱ AI Coding Time: 8 hrs 29 mins (78.57%)
 
-✍️ 2,931 lines written by AI, 300 lines written by hand (90.71% AI-written)
+✍️ 2,550 lines written by AI, 256 lines written by hand (90.88% AI-written)
 
-🔤 32,338,054 Input Tokens, 546,533 Output Tokens
+🔤 4,123,316 Input Tokens, 457,112 Output Tokens
 
-💵 $230.30 Estimated AI Cost This Week
+💵 $87.99 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 103 AI Prompts
+🧠 38 AI Sessions, 81 AI Prompts
 
-GPT                      3,228 lines         █████████████████████████   100.00 % 
+GPT                      2,815 lines         █████████████████████████   100.00 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.71% of written lines came from AI
-📚 Verbose Prompter — average 4,684 characters per prompt
+🤖 AI-Driven — 90.88% of written lines came from AI
+📚 Verbose Prompter — average 5,470 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 17.27% of changed lines were hand-edited
+🚀 High AI Trust — 17.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
@@ -150,7 +150,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 23:40:18 UTC
+ Last Updated on 13/08/2026 23:40:02 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
