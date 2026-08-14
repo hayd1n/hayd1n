@@ -87,50 +87,48 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Go                       3 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.42 % 
-Other                    2 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-BlitzBasic               1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-INI                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Pawn                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Go                       2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   34.55 % 
+Other                    2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   30.47 % 
+BlitzBasic               1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+INI                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Pawn                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 39 mins       ██████████████████░░░░░░░   70.75 % 
-Codex Vscode             1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Copilot CLI              1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+VS Code                  4 hrs 38 mins       ███████████████░░░░░░░░░░   61.64 % 
+Codex Vscode             1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+Copilot CLI              57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
 
 🐱‍💻 Projects: 
-aips-distro              7 hrs 19 mins       █████████████████░░░░░░░░   67.75 % 
-onl-api                  1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-snort-svc                1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-ips-firewall-svc         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-task-manager-svc         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+aips-distro              5 hrs               █████████████████░░░░░░░░   66.38 % 
+onl-api                  1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+snort-svc                37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+ips-firewall-svc         9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 💻 Operating System: 
-Linux                    10 hrs 49 mins      █████████████████████████   100.00 % 
+Linux                    7 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 29 mins (78.57%)
+⏱ AI Coding Time: 5 hrs 47 mins (76.96%)
 
-✍️ 2,550 lines written by AI, 256 lines written by hand (90.88% AI-written)
+✍️ 2,010 lines written by AI, 148 lines written by hand (93.14% AI-written)
 
-🔤 4,123,316 Input Tokens, 457,112 Output Tokens
+🔤 2,773,525 Input Tokens, 310,039 Output Tokens
 
-💵 $87.99 Estimated AI Cost This Week
+💵 $60.94 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 81 AI Prompts
+🧠 28 AI Sessions, 54 AI Prompts
 
-GPT                      2,815 lines         █████████████████████████   100.00 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      2,207 lines         █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.88% of written lines came from AI
-📚 Verbose Prompter — average 5,470 characters per prompt
+🤖 AI-Driven — 93.14% of written lines came from AI
+📚 Verbose Prompter — average 4,681 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 17.3% of changed lines were hand-edited
+🚀 High AI Trust — 14.42% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
@@ -150,7 +148,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 23:40:02 UTC
+ Last Updated on 14/08/2026 23:20:47 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
