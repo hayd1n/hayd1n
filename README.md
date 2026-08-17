@@ -87,48 +87,47 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Go                       2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   34.55 % 
-Other                    2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   30.47 % 
-BlitzBasic               1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-INI                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Pawn                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Go                       1 hr 58 mins        ██████████░░░░░░░░░░░░░░░   38.94 % 
+Other                    1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   34.31 % 
+BlitzBasic               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+INI                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Pawn                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 38 mins       ███████████████░░░░░░░░░░   61.64 % 
-Codex Vscode             1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-Copilot CLI              57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+VS Code                  2 hrs 17 mins       ███████████░░░░░░░░░░░░░░   45.36 % 
+Codex Vscode             2 hrs 10 mins       ███████████░░░░░░░░░░░░░░   42.79 % 
+Copilot CLI              36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
 
 🐱‍💻 Projects: 
-aips-distro              5 hrs               █████████████████░░░░░░░░   66.38 % 
-onl-api                  1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-snort-svc                37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-ips-firewall-svc         9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+aips-distro              2 hrs 55 mins       ██████████████░░░░░░░░░░░   57.65 % 
+onl-api                  1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   34.28 % 
+c                        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+ips-firewall-svc         9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 💻 Operating System: 
-Linux                    7 hrs 32 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 47 mins (76.96%)
+⏱ AI Coding Time: 3 hrs 53 mins (76.95%)
 
-✍️ 2,010 lines written by AI, 148 lines written by hand (93.14% AI-written)
+✍️ 1,773 lines written by AI, 143 lines written by hand (92.54% AI-written)
 
-🔤 2,773,525 Input Tokens, 310,039 Output Tokens
+🔤 2,717,676 Input Tokens, 193,323 Output Tokens
 
-💵 $60.70 Estimated AI Cost This Week
+💵 $42.48 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 54 AI Prompts
+🧠 15 AI Sessions, 34 AI Prompts
 
-GPT                      2,207 lines         █████████████████████████   100.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      1,970 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.14% of written lines came from AI
-📚 Verbose Prompter — average 4,681 characters per prompt
+🤖 AI-Driven — 92.54% of written lines came from AI
+📚 Verbose Prompter — average 6,020 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 14.42% of changed lines were hand-edited
+🚀 High AI Trust — 12.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
@@ -148,7 +147,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 23:18:56 UTC
+ Last Updated on 17/08/2026 23:22:01 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
