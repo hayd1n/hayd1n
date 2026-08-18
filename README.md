@@ -58,7 +58,7 @@ Hello! I am from Taiwan and currently a student at the [National Taiwan Universi
 ## 📊 Analysis
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-72%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-72%20hrs%2044%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -87,47 +87,46 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Go                       1 hr 58 mins        ██████████░░░░░░░░░░░░░░░   38.94 % 
-Other                    1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   34.31 % 
-BlitzBasic               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-INI                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Pawn                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Other                    1 hr 14 mins        █████████████░░░░░░░░░░░░   52.81 % 
+Go                       20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Caddyfile                16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+INI                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+BlitzBasic               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 17 mins       ███████████░░░░░░░░░░░░░░   45.36 % 
-Codex Vscode             2 hrs 10 mins       ███████████░░░░░░░░░░░░░░   42.79 % 
-Copilot CLI              36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Codex Vscode             1 hr 27 mins        ████████████████░░░░░░░░░   62.11 % 
+VS Code                  50 mins             █████████░░░░░░░░░░░░░░░░   36.08 % 
+Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🐱‍💻 Projects: 
-aips-distro              2 hrs 55 mins       ██████████████░░░░░░░░░░░   57.65 % 
-onl-api                  1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   34.28 % 
-c                        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-ips-firewall-svc         9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+aips-distro              1 hr 50 mins        ████████████████████░░░░░   78.51 % 
+onl-api                  15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+c                        14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
 
 💻 Operating System: 
-Linux                    5 hrs 3 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 53 mins (76.95%)
+⏱ AI Coding Time: 2 hrs 2 mins (86.83%)
 
-✍️ 1,773 lines written by AI, 143 lines written by hand (92.54% AI-written)
+✍️ 1,440 lines written by AI, 16 lines written by hand (98.9% AI-written)
 
-🔤 2,717,676 Input Tokens, 193,323 Output Tokens
+🔤 1,396,433 Input Tokens, 152,976 Output Tokens
 
-💵 $42.48 Estimated AI Cost This Week
+💵 $26.82 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 34 AI Prompts
+🧠 4 AI Sessions, 21 AI Prompts
 
-GPT                      1,970 lines         █████████████████████████   100.00 % 
+GPT                      1,563 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.54% of written lines came from AI
-📚 Verbose Prompter — average 6,020 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 12.21% of changed lines were hand-edited
+🤖 AI-Driven — 98.9% of written lines came from AI
+📄 Detailed Prompter — average 611 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.82% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
@@ -147,7 +146,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 23:22:01 UTC
+ Last Updated on 18/08/2026 23:20:49 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
