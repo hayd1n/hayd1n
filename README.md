@@ -87,46 +87,39 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    1 hr 14 mins        █████████████░░░░░░░░░░░░   52.81 % 
-Go                       20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Caddyfile                16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-INI                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-BlitzBasic               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Other                    1 hr                █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 27 mins        ████████████████░░░░░░░░░   62.11 % 
-VS Code                  50 mins             █████████░░░░░░░░░░░░░░░░   36.08 % 
-Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Codex Vscode             1 hr                █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-aips-distro              1 hr 50 mins        ████████████████████░░░░░   78.51 % 
-onl-api                  15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-c                        14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+d                        46 mins             ███████████████████░░░░░░   75.99 % 
+c                        14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
 
 💻 Operating System: 
-Linux                    2 hrs 21 mins       █████████████████████████   100.00 % 
+Linux                    1 hr                █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 2 mins (86.83%)
+⏱ AI Coding Time: 1 hr (100.0%)
 
-✍️ 1,440 lines written by AI, 16 lines written by hand (98.9% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,396,433 Input Tokens, 152,976 Output Tokens
+🔤 612,173 Input Tokens, 70,754 Output Tokens
 
-💵 $26.82 Estimated AI Cost This Week
+💵 $8.73 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 21 AI Prompts
+🧠 2 AI Sessions, 11 AI Prompts
 
-GPT                      1,563 lines         █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.9% of written lines came from AI
-📄 Detailed Prompter — average 611 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.82% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 83 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
@@ -146,7 +139,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 23:20:49 UTC
+ Last Updated on 19/08/2026 23:23:07 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
