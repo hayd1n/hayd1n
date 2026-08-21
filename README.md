@@ -87,39 +87,49 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    1 hr                █████████████████████████   100.00 % 
+Other                    1 hr 21 mins        ████████░░░░░░░░░░░░░░░░░   30.03 % 
+Svelte                   40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Rust                     38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+TypeScript               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+JSON                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr                █████████████████████████   100.00 % 
+Codex Vscode             3 hrs 3 mins        █████████████████░░░░░░░░   67.70 % 
+VS Code                  1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   31.93 % 
+Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🐱‍💻 Projects: 
-d                        46 mins             ███████████████████░░░░░░   75.99 % 
-c                        14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+threads-clean-url        1 hr 34 mins        █████████░░░░░░░░░░░░░░░░   34.82 % 
+referenced-chatgpt-conver56 mins             █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+d                        46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+oring-eips-tools         44 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+oring-eips-tools-node    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 
 💻 Operating System: 
-Linux                    1 hr                █████████████████████████   100.00 % 
+Mac                      3 hrs 29 mins       ███████████████████░░░░░░   77.32 % 
+Linux                    1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr (100.0%)
+⏱ AI Coding Time: 3 hrs 16 mins (72.37%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 4,314 lines written by AI, 113 lines written by hand (97.45% AI-written)
 
-🔤 612,173 Input Tokens, 70,754 Output Tokens
+🔤 1,476,133 Input Tokens, 233,719 Output Tokens
 
-💵 $8.73 Estimated AI Cost This Week
+💵 $35.09 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 11 AI Prompts
+🧠 6 AI Sessions, 27 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      4,400 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 83 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 97.45% of written lines came from AI
+📝 Concise Prompter — average 367 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 3.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
@@ -139,7 +149,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 23:26:00 UTC
+ Last Updated on 21/08/2026 23:22:45 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
