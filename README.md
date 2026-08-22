@@ -58,7 +58,7 @@ Hello! I am from Taiwan and currently a student at the [National Taiwan Universi
 ## 📊 Analysis
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-73%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-75%20hrs%2045%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -149,7 +149,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 23:22:45 UTC
+ Last Updated on 22/08/2026 23:19:46 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
