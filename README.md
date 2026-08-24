@@ -87,49 +87,51 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    1 hr 21 mins        ████████░░░░░░░░░░░░░░░░░   30.03 % 
-Svelte                   40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Rust                     38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-TypeScript               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-JSON                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Other                    1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+TypeScript               1 hr                █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Svelte                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Rust                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+JSON                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 3 mins        █████████████████░░░░░░░░   67.70 % 
-VS Code                  1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   31.93 % 
-Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Codex Vscode             3 hrs 21 mins       ███████████████░░░░░░░░░░   60.95 % 
+VS Code                  2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.76 % 
+Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🐱‍💻 Projects: 
-threads-clean-url        1 hr 34 mins        █████████░░░░░░░░░░░░░░░░   34.82 % 
-referenced-chatgpt-conver56 mins             █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-d                        46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-oring-eips-tools         44 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-oring-eips-tools-node    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+threads-clean-url        1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   29.68 % 
+license-portal-deploy    1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+referenced-chatgpt-conver56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+d                        46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+oring-eips-tools         44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
 
 💻 Operating System: 
-Mac                      3 hrs 29 mins       ███████████████████░░░░░░   77.32 % 
-Linux                    1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+Mac                      3 hrs 40 mins       █████████████████░░░░░░░░   66.66 % 
+Linux                    1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   33.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 16 mins (72.37%)
+⏱ AI Coding Time: 3 hrs 47 mins (68.97%)
 
-✍️ 4,314 lines written by AI, 113 lines written by hand (97.45% AI-written)
+✍️ 5,570 lines written by AI, 331 lines written by hand (94.39% AI-written)
 
-🔤 1,476,133 Input Tokens, 233,719 Output Tokens
+🔤 1,841,019 Input Tokens, 292,852 Output Tokens
 
-💵 $35.09 Estimated AI Cost This Week
+💵 $34.81 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 27 AI Prompts
+🧠 10 AI Sessions, 38 AI Prompts
 
-GPT                      4,400 lines         █████████████████████████   100.00 % 
+GPT                      5,720 lines         █████████████████████████   100.00 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.45% of written lines came from AI
-📝 Concise Prompter — average 367 characters per prompt
+🤖 AI-Driven — 94.39% of written lines came from AI
+📄 Detailed Prompter — average 1,454 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 3.02% of changed lines were hand-edited
+🚀 High AI Trust — 5.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
@@ -149,7 +151,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 23:20:22 UTC
+ Last Updated on 24/08/2026 23:23:14 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
