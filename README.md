@@ -87,51 +87,51 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-YAML                     1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-TypeScript               1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Other                    56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Svelte                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+TypeScript               1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+YAML                     1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Other                    1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Svelte                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 50 mins       ███████████████░░░░░░░░░░   58.86 % 
-VS Code                  2 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.87 % 
-Copilot CLI              23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Codex Vscode             3 hrs 51 mins       █████████████░░░░░░░░░░░░   50.67 % 
+VS Code                  3 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   41.38 % 
+Copilot CLI              35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-license-portal-deploy    2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.27 % 
-threads-clean-url        1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-referenced-chatgpt-conver56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-oring-eips-tools         44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-license-portal-backend   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+license-portal-deploy    2 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   30.34 % 
+threads-clean-url        1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+referenced-chatgpt-conver56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+oring-eips-tools         44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+onl-web                  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 
 💻 Operating System: 
-Mac                      3 hrs 40 mins       ██████████████░░░░░░░░░░░   56.31 % 
-Linux                    2 hrs 50 mins       ███████████░░░░░░░░░░░░░░   43.69 % 
+Linux                    3 hrs 57 mins       █████████████░░░░░░░░░░░░   51.91 % 
+Mac                      3 hrs 40 mins       ████████████░░░░░░░░░░░░░   48.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 37 mins (71.1%)
+⏱ AI Coding Time: 4 hrs 51 mins (63.79%)
 
-✍️ 10,148 lines written by AI, 332 lines written by hand (96.83% AI-written)
+✍️ 10,151 lines written by AI, 362 lines written by hand (96.56% AI-written)
 
-🔤 1,918,806 Input Tokens, 331,743 Output Tokens
+🔤 1,955,000 Input Tokens, 334,809 Output Tokens
 
-💵 $35.22 Estimated AI Cost This Week
+💵 $35.45 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 50 AI Prompts
+🧠 22 AI Sessions, 55 AI Prompts
 
-GPT                      10,307 lines        █████████████████████████   100.00 % 
+GPT                      10,310 lines        █████████████████████████   100.00 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.83% of written lines came from AI
-📄 Detailed Prompter — average 1,476 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 4.12% of changed lines were hand-edited
+🤖 AI-Driven — 96.56% of written lines came from AI
+📚 Verbose Prompter — average 1,539 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 4.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
@@ -151,7 +151,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2026 04:15:45 UTC
+ Last Updated on 28/08/2026 06:33:07 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
