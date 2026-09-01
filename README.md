@@ -87,50 +87,49 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-YAML                     1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   26.58 % 
-TypeScript               50 mins             █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Markdown                 45 mins             █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Other                    40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-BlitzBasic               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+YAML                     47 mins             ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+Markdown                 34 mins             █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+TypeScript               31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+BlitzBasic               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 45 mins        ███████████░░░░░░░░░░░░░░   43.42 % 
-VS Code                  1 hr 42 mins        ███████████░░░░░░░░░░░░░░   42.07 % 
-Copilot CLI              35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Codex Vscode             1 hr 17 mins        ███████████░░░░░░░░░░░░░░   44.55 % 
+VS Code                  1 hr 7 mins         ██████████░░░░░░░░░░░░░░░   38.86 % 
+Copilot CLI              28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
 
 🐱‍💻 Projects: 
-license-portal-deploy    2 hrs 18 mins       ██████████████░░░░░░░░░░░   57.00 % 
-onl-web                  38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-license-portal-backend   32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-aips-distro              19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-onl-api                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+license-portal-deploy    1 hr 15 mins        ███████████░░░░░░░░░░░░░░   43.59 % 
+onl-web                  38 mins             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+license-portal-backend   32 mins             █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+aips-distro              19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+onl-api                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 
 💻 Operating System: 
-Linux                    3 hrs 56 mins       ████████████████████████░   97.22 % 
-Mac                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Linux                    2 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 33 mins (62.86%)
+⏱ AI Coding Time: 1 hr 50 mins (63.58%)
 
-✍️ 5,837 lines written by AI, 34 lines written by hand (99.42% AI-written)
+✍️ 4,581 lines written by AI, 31 lines written by hand (99.33% AI-written)
 
-🔤 1,088,275 Input Tokens, 170,815 Output Tokens
+🔤 568,900 Input Tokens, 108,267 Output Tokens
 
-💵 $14.97 Estimated AI Cost This Week
+💵 $7.42 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 39 AI Prompts
+🧠 13 AI Sessions, 25 AI Prompts
 
-GPT                      5,910 lines         █████████████████████████   100.00 % 
+GPT                      4,590 lines         █████████████████████████   100.00 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.42% of written lines came from AI
-📚 Verbose Prompter — average 1,940 characters per prompt
+🤖 AI-Driven — 99.33% of written lines came from AI
+📄 Detailed Prompter — average 1,195 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 2.33% of changed lines were hand-edited
+🚀 High AI Trust — 2.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
@@ -150,7 +149,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 01:07:20 UTC
+ Last Updated on 01/09/2026 01:38:12 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
