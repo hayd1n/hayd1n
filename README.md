@@ -58,7 +58,7 @@ Hello! I am from Taiwan and currently a student at the [National Taiwan Universi
 ## 📊 Analysis
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2051%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -87,59 +87,58 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-BlitzBasic               48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Python                   37 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-YAML                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Other                    30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+BlitzBasic               1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   30.13 % 
+TypeScript               1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+Other                    1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Python                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Go                       28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 25 mins       ██████████████░░░░░░░░░░░   56.19 % 
-Codex Vscode             1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-Copilot CLI              36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+VS Code                  2 hrs 29 mins       ███████████░░░░░░░░░░░░░░   45.33 % 
+Codex Vscode             2 hrs 26 mins       ███████████░░░░░░░░░░░░░░   44.59 % 
+Copilot CLI              33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
 
 🐱‍💻 Projects: 
-aips-distro              1 hr 34 mins        █████████░░░░░░░░░░░░░░░░   36.34 % 
-onl-web                  1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   36.03 % 
-license-portal-deploy    58 mins             ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-license-portal-backend   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-onl-api                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+aips-distro              3 hrs 26 mins       ████████████████░░░░░░░░░   62.57 % 
+onl-web                  1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+onl-api                  28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+license-portal-deploy    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Linux                    4 hrs 19 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 39 mins (61.42%)
+⏱ AI Coding Time: 3 hrs 58 mins (72.3%)
 
-✍️ 1,939 lines written by AI, 35 lines written by hand (98.23% AI-written)
+✍️ 751 lines written by AI, 35 lines written by hand (95.55% AI-written)
 
-🔤 935,773 Input Tokens, 147,357 Output Tokens
+🔤 2,620,046 Input Tokens, 226,489 Output Tokens
 
-💵 $22.56 Estimated AI Cost This Week
+💵 $35.66 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 31 AI Prompts
+🧠 20 AI Sessions, 34 AI Prompts
 
-GPT                      1,836 lines         ████████████████████████░   94.11 % 
-Codex-Vscode             115 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+GPT                      639 lines           █████████████████████░░░░   84.75 % 
+Codex-Vscode             115 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.23% of written lines came from AI
-📚 Verbose Prompter — average 2,530 characters per prompt
+🤖 AI-Driven — 95.55% of written lines came from AI
+📚 Verbose Prompter — average 2,055 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 6.78% of changed lines were hand-edited
+🚀 High AI Trust — 7.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
 
 ```text
-Svelte                   19 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-TypeScript               15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Rust                     11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Svelte                   19 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+TypeScript               15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Rust                     11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 ```
 
 
@@ -149,7 +148,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 00:51:29 UTC
+ Last Updated on 03/09/2026 00:58:45 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
