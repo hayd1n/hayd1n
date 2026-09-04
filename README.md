@@ -58,7 +58,7 @@ Hello! I am from Taiwan and currently a student at the [National Taiwan Universi
 ## 📊 Analysis
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%204%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -87,48 +87,51 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-BlitzBasic               1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   30.13 % 
-TypeScript               1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-Other                    1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Python                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Go                       28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Other                    1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+BlitzBasic               1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+Markdown                 1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Python                   43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+TypeScript               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 29 mins       ███████████░░░░░░░░░░░░░░   45.33 % 
-Codex Vscode             2 hrs 26 mins       ███████████░░░░░░░░░░░░░░   44.59 % 
-Copilot CLI              33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Codex Vscode             3 hrs 27 mins       █████████████░░░░░░░░░░░░   51.81 % 
+VS Code                  2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.58 % 
+Claude Code              37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Copilot CLI              25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 🐱‍💻 Projects: 
-aips-distro              3 hrs 26 mins       ████████████████░░░░░░░░░   62.57 % 
-onl-web                  1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   28.42 % 
-onl-api                  28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-license-portal-deploy    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+aips-distro              3 hrs 55 mins       ███████████████░░░░░░░░░░   58.80 % 
+onl-web                  54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+license-portal-backend   50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+aips-svc                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+onl-api                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 💻 Operating System: 
-Linux                    5 hrs 29 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 58 mins (72.3%)
+⏱ AI Coding Time: 5 hrs 46 mins (86.62%)
 
-✍️ 751 lines written by AI, 35 lines written by hand (95.55% AI-written)
+✍️ 4,115 lines written by AI, 11 lines written by hand (99.73% AI-written)
 
-🔤 2,620,046 Input Tokens, 226,489 Output Tokens
+🔤 4,458,917 Input Tokens, 406,417 Output Tokens
 
-💵 $35.66 Estimated AI Cost This Week
+💵 $61.96 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 34 AI Prompts
+🧠 18 AI Sessions, 50 AI Prompts
 
-GPT                      639 lines           █████████████████████░░░░   84.75 % 
-Codex-Vscode             115 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Sonnet                   2,040 lines         ████████████░░░░░░░░░░░░░   48.93 % 
+GPT                      2,014 lines         ████████████░░░░░░░░░░░░░   48.31 % 
+Codex-Vscode             115 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.55% of written lines came from AI
-📚 Verbose Prompter — average 2,055 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 7.14% of changed lines were hand-edited
+🤖 AI-Driven — 99.73% of written lines came from AI
+📚 Verbose Prompter — average 4,384 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
@@ -148,7 +151,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 00:58:45 UTC
+ Last Updated on 04/09/2026 00:44:37 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
