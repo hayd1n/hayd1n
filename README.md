@@ -58,26 +58,26 @@ Hello! I am from Taiwan and currently a student at the [National Taiwan Universi
 ## 📊 Analysis
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%2051%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                308 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-🌆 Daytime                930 commits         ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-🌃 Evening                731 commits         ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
-🌙 Night                  1201 commits        █████████░░░░░░░░░░░░░░░░   37.89 % 
+🌞 Morning                307 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+🌆 Daytime                923 commits         ███████░░░░░░░░░░░░░░░░░░   29.19 % 
+🌃 Evening                731 commits         ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+🌙 Night                  1201 commits        █████████░░░░░░░░░░░░░░░░   37.98 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   307 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Tuesday                  370 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Wednesday                703 commits         ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-Thursday                 455 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Friday                   289 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Saturday                 665 commits         █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-Sunday                   381 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Monday                   302 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Tuesday                  370 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Wednesday                702 commits         ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+Thursday                 455 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Friday                   287 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Saturday                 665 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Sunday                   381 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
 ```
 
 
@@ -87,65 +87,65 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Go                       5 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.73 % 
-Markdown                 3 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-Caddyfile                1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-BlitzBasic               1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-YAML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Go                       5 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   34.65 % 
+Markdown                 4 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+YAML                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Caddyfile                1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+JavaScript               1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 54 mins       ███████████░░░░░░░░░░░░░░   44.25 % 
-VS Code                  4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.21 % 
-Codex Vscode             3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-Copilot CLI              34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Antigravity CLI          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Claude Code              8 hrs 2 mins        █████████████░░░░░░░░░░░░   50.01 % 
+VS Code                  4 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+Codex Vscode             3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Copilot CLI              49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Antigravity CLI          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🐱‍💻 Projects: 
-license-portal-backend   5 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   37.07 % 
-aips-distro              3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-aips-svc                 2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-gitflow-test             1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-onl-api                  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+license-portal-backend   5 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   35.94 % 
+aips-distro              2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+aips-svc                 2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+gitflow-test             2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+release-signoff-gate-acti1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
 
 💻 Operating System: 
-Linux                    10 hrs 29 mins      █████████████████░░░░░░░░   67.32 % 
-Mac                      5 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   32.68 % 
+Linux                    10 hrs 59 mins      █████████████████░░░░░░░░   68.32 % 
+Mac                      5 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   31.68 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 29 mins (86.53%)
+⏱ AI Coding Time: 14 hrs 20 mins (89.12%)
 
-✍️ 12,171 lines written by AI, 31 lines written by hand (99.75% AI-written)
+✍️ 11,446 lines written by AI, 33 lines written by hand (99.71% AI-written)
 
-🔤 18,601,631 Input Tokens, 1,117,750 Output Tokens
+🔤 19,004,885 Input Tokens, 1,086,932 Output Tokens
 
-💵 $152.16 Estimated AI Cost This Week
+💵 $136.82 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 142 AI Prompts
+🧠 56 AI Sessions, 162 AI Prompts
 
-Sonnet                   5,233 lines         ██████████░░░░░░░░░░░░░░░   40.61 % 
-GPT                      3,347 lines         ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-Qwen                     2,532 lines         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-Opus                     1,604 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Codex-Vscode             171 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Sonnet                   5,351 lines         ███████████░░░░░░░░░░░░░░   43.94 % 
+GPT                      2,692 lines         ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+Qwen                     2,532 lines         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Opus                     1,604 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.75% of written lines came from AI
-📚 Verbose Prompter — average 3,821 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.37% of changed lines were hand-edited
+🤖 AI-Driven — 99.71% of written lines came from AI
+📚 Verbose Prompter — average 3,168 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
 
 ```text
-Svelte                   19 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-TypeScript               15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Rust                     11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Svelte                   19 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+TypeScript               15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Rust                     11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -155,7 +155,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 00:56:18 UTC
+ Last Updated on 09/09/2026 01:04:06 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
