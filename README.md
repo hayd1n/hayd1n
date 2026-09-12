@@ -87,55 +87,53 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Go                       5 hrs 6 mins        ███████████░░░░░░░░░░░░░░   43.81 % 
-Markdown                 3 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-YAML                     1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-JavaScript               1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Go                       4 hrs 53 mins       ████████████░░░░░░░░░░░░░   47.53 % 
+YAML                     1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Markdown                 1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+JavaScript               1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 25 mins       ████████████████░░░░░░░░░   63.67 % 
-VS Code                  3 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.84 % 
-Copilot CLI              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Codex Vscode             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Antigravity CLI          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Claude Code              6 hrs 10 mins       ███████████████░░░░░░░░░░   59.93 % 
+VS Code                  2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+Codex Vscode             37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Copilot CLI              37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 
 🐱‍💻 Projects: 
-license-portal-backend   4 hrs 57 mins       ███████████░░░░░░░░░░░░░░   42.54 % 
-gitflow-test             2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-aips-svc                 1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-release-signoff-gate-acti1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-onl-api                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+license-portal-backend   4 hrs 57 mins       ████████████░░░░░░░░░░░░░   48.12 % 
+gitflow-test             2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+release-signoff-gate-acti1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+ru                       22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+onl-api                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 
 💻 Operating System: 
-Linux                    6 hrs 29 mins       ██████████████░░░░░░░░░░░   55.73 % 
-Mac                      5 hrs 9 mins        ███████████░░░░░░░░░░░░░░   44.27 % 
+Mac                      5 hrs 9 mins        █████████████░░░░░░░░░░░░   50.09 % 
+Linux                    5 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.91 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 12 mins (87.57%)
+⏱ AI Coding Time: 9 hrs 8 mins (88.71%)
 
-✍️ 4,881 lines written by AI, 28 lines written by hand (99.43% AI-written)
+✍️ 3,277 lines written by AI, 28 lines written by hand (99.15% AI-written)
 
-🔤 9,680,060 Input Tokens, 398,141 Output Tokens
+🔤 9,056,713 Input Tokens, 247,818 Output Tokens
 
-💵 $36.82 Estimated AI Cost This Week
+💵 $18.83 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 88 AI Prompts
+🧠 41 AI Sessions, 75 AI Prompts
 
-Qwen                     2,532 lines         ███████████░░░░░░░░░░░░░░   45.54 % 
-Opus                     1,604 lines         ███████░░░░░░░░░░░░░░░░░░   28.85 % 
-Sonnet                   1,271 lines         ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-GPT                      153 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Qwen                     2,532 lines         ████████████████░░░░░░░░░   64.00 % 
+Sonnet                   1,271 lines         ████████░░░░░░░░░░░░░░░░░   32.13 % 
+GPT                      153 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.43% of written lines came from AI
-📚 Verbose Prompter — average 2,037 characters per prompt
+🤖 AI-Driven — 99.15% of written lines came from AI
+📚 Verbose Prompter — average 2,264 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.16% of changed lines were hand-edited
+🚀 High AI Trust — 1.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
@@ -155,7 +153,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 00:52:31 UTC
+ Last Updated on 12/09/2026 00:54:54 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
