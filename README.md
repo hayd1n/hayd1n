@@ -87,48 +87,47 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    49 mins             █████████████░░░░░░░░░░░░   51.87 % 
-Text                     24 mins             ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
-Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Rust                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Other                    49 mins             ██████████████░░░░░░░░░░░   55.59 % 
+Text                     24 mins             ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Codex Vscode             58 mins             ███████████████░░░░░░░░░░   60.96 % 
-VS Code                  37 mins             ██████████░░░░░░░░░░░░░░░   39.04 % 
+Codex Vscode             54 mins             ███████████████░░░░░░░░░░   61.09 % 
+VS Code                  34 mins             ██████████░░░░░░░░░░░░░░░   38.91 % 
 
 🐱‍💻 Projects: 
-ru                       37 mins             ██████████░░░░░░░░░░░░░░░   39.29 % 
-Unknown Project          33 mins             █████████░░░░░░░░░░░░░░░░   35.34 % 
-w                        8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-you                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-q                        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+ru                       37 mins             ███████████░░░░░░░░░░░░░░   42.11 % 
+Unknown Project          33 mins             █████████░░░░░░░░░░░░░░░░   37.88 % 
+w                        8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+you                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+release-signoff-gate-acti3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
 💻 Operating System: 
-Linux                    1 hr 31 mins        ████████████████████████░   95.45 % 
-Mac                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Linux                    1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 9 mins (72.98%)
+⏱ AI Coding Time: 1 hr 5 mins (73.71%)
 
-✍️ 139 lines written by AI, 6 lines written by hand (95.86% AI-written)
+✍️ 31 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 563,601 Input Tokens, 38,259 Output Tokens
+🔤 515,556 Input Tokens, 32,917 Output Tokens
 
-💵 $4.49 Estimated AI Cost This Week
+💵 $4.04 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 21 AI Prompts
+🧠 8 AI Sessions, 20 AI Prompts
 
-GPT                      184 lines           █████████████████████████   100.00 % 
+GPT                      31 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.86% of written lines came from AI
-📚 Verbose Prompter — average 1,955 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,666 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 5.64% of changed lines were hand-edited
+🚀 High AI Trust — 8.82% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
@@ -148,7 +147,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 01:04:18 UTC
+ Last Updated on 17/09/2026 01:07:20 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
