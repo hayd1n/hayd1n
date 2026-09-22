@@ -87,49 +87,51 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    37 mins             ████████████░░░░░░░░░░░░░   47.83 % 
-Text                     24 mins             ████████░░░░░░░░░░░░░░░░░   30.38 % 
-Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Other                    1 hr 1 min          ███████████████░░░░░░░░░░   59.39 % 
+Go                       35 mins             █████████░░░░░░░░░░░░░░░░   34.43 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Caddyfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-Codex Vscode             41 mins             █████████████░░░░░░░░░░░░   52.56 % 
-VS Code                  36 mins             ███████████░░░░░░░░░░░░░░   45.98 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Codex Vscode             57 mins             ██████████████░░░░░░░░░░░   55.78 % 
+Claude Code              39 mins             ██████████░░░░░░░░░░░░░░░   38.80 % 
+VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 🐱‍💻 Projects: 
-Unknown Project          33 mins             ███████████░░░░░░░░░░░░░░   42.64 % 
-yi-da                    11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-authentik                10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-mac-mouse-fix            10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-a                        5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+license-portal-backend   36 mins             █████████░░░░░░░░░░░░░░░░   35.19 % 
+yi-da                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+authentik                10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+mac-mouse-fix            10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+dui                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
 
 💻 Operating System: 
-Linux                    1 hr 9 mins         ██████████████████████░░░   87.36 % 
-Mac                      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Mac                      56 mins             ██████████████░░░░░░░░░░░   54.92 % 
+Linux                    46 mins             ███████████░░░░░░░░░░░░░░   45.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 55 mins (70.16%)
+⏱ AI Coding Time: 1 hr 42 mins (99.49%)
 
-✍️ 31 lines written by AI, 5 lines written by hand (86.11% AI-written)
+✍️ 0 lines written by AI, 5 lines written by hand (0.0% AI-written)
 
-🔤 402,194 Input Tokens, 24,750 Output Tokens
+🔤 1,513,355 Input Tokens, 41,678 Output Tokens
 
-💵 $3.17 Estimated AI Cost This Week
+💵 $4.80 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 20 AI Prompts
+🧠 15 AI Sessions, 30 AI Prompts
 
-GPT                      31 lines            █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.11% of written lines came from AI
-📄 Detailed Prompter — average 1,037 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 73 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 20.51% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
@@ -149,7 +151,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 00:51:45 UTC
+ Last Updated on 22/09/2026 01:28:10 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
