@@ -87,49 +87,46 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    55 mins             ██████████████░░░░░░░░░░░   56.88 % 
-Go                       35 mins             █████████░░░░░░░░░░░░░░░░   36.57 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Caddyfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Other                    49 mins             ██████████████████████░░░   89.92 % 
+YAML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Caddyfile                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 Editors: 
-Codex Vscode             51 mins             █████████████░░░░░░░░░░░░   53.04 % 
-Claude Code              39 mins             ██████████░░░░░░░░░░░░░░░   41.20 % 
-VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Codex Vscode             48 mins             ██████████████████████░░░   87.84 % 
+VS Code                  5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Claude Code              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🐱‍💻 Projects: 
-license-portal-backend   36 mins             █████████░░░░░░░░░░░░░░░░   37.37 % 
-yi-da                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-authentik                10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-mac-mouse-fix            10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-dui                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+yi-da                    11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+authentik                10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+mac-mouse-fix            10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+dui                      9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+a                        5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
 
 💻 Operating System: 
-Mac                      51 mins             █████████████░░░░░░░░░░░░   53.21 % 
-Linux                    45 mins             ████████████░░░░░░░░░░░░░   46.79 % 
+Linux                    45 mins             ████████████████████░░░░░   81.92 % 
+Mac                      10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 36 mins (99.46%)
+⏱ AI Coding Time: 54 mins (99.06%)
 
 ✍️ 0 lines written by AI, 5 lines written by hand (0.0% AI-written)
 
-🔤 1,449,170 Input Tokens, 37,471 Output Tokens
+🔤 457,581 Input Tokens, 23,746 Output Tokens
 
-💵 $4.40 Estimated AI Cost This Week
+💵 $3.15 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 26 AI Prompts
+🧠 10 AI Sessions, 19 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 39 characters per prompt
+📝 Concise Prompter — average 33 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -151,7 +148,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 01:15:26 UTC
+ Last Updated on 24/09/2026 01:04:44 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
