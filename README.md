@@ -87,46 +87,46 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    49 mins             ██████████████████████░░░   89.92 % 
-YAML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Caddyfile                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Other                    36 mins             ██████████████████████░░░   86.84 % 
+YAML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Caddyfile                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-Codex Vscode             48 mins             ██████████████████████░░░   87.84 % 
-VS Code                  5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-Claude Code              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Codex Vscode             35 mins             █████████████████████░░░░   84.12 % 
+VS Code                  5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Claude Code              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🐱‍💻 Projects: 
-yi-da                    11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-authentik                10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-mac-mouse-fix            10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-dui                      9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-a                        5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+yi-da                    11 mins             ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+authentik                10 mins             ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+mac-mouse-fix            10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+a                        5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+bi-ji                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
 
 💻 Operating System: 
-Linux                    45 mins             ████████████████████░░░░░   81.92 % 
-Mac                      10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Linux                    32 mins             ███████████████████░░░░░░   76.38 % 
+Mac                      10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 mins (99.06%)
+⏱ AI Coding Time: 41 mins (98.77%)
 
 ✍️ 0 lines written by AI, 5 lines written by hand (0.0% AI-written)
 
-🔤 457,581 Input Tokens, 23,746 Output Tokens
+🔤 334,971 Input Tokens, 19,076 Output Tokens
 
-💵 $3.15 Estimated AI Cost This Week
+💵 $2.50 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 19 AI Prompts
+🧠 7 AI Sessions, 16 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 33 characters per prompt
+📝 Concise Prompter — average 32 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -148,7 +148,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 01:04:44 UTC
+ Last Updated on 25/09/2026 01:10:34 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
