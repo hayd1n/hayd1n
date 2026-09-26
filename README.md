@@ -87,48 +87,22 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    36 mins             ██████████████████████░░░   86.84 % 
-YAML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Caddyfile                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             35 mins             █████████████████████░░░░   84.12 % 
-VS Code                  5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Claude Code              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-yi-da                    11 mins             ███████░░░░░░░░░░░░░░░░░░   26.55 % 
-authentik                10 mins             ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-mac-mouse-fix            10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-a                        5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-bi-ji                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    32 mins             ███████████████████░░░░░░   76.38 % 
-Mac                      10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 mins (98.77%)
-
-✍️ 0 lines written by AI, 5 lines written by hand (0.0% AI-written)
-
-🔤 334,971 Input Tokens, 19,076 Output Tokens
-
-💵 $2.50 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 16 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 32 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Svelte** 
@@ -148,7 +122,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 01:10:34 UTC
+ Last Updated on 26/09/2026 01:11:53 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
