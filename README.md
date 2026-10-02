@@ -87,16 +87,18 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     0 secs              ███████████████████░░░░░░   75.24 % 
+Text                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+mvdis-license-plate-query0 secs              ███████████████████░░░░░░   75.24 % 
+Unknown Project          0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -122,7 +124,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 01:51:02 UTC
+ Last Updated on 02/10/2026 02:00:57 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
