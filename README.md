@@ -63,21 +63,21 @@ Hello! I am from Taiwan and currently a student at the [National Taiwan Universi
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                305 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-🌆 Daytime                894 commits         ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-🌃 Evening                734 commits         ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
-🌙 Night                  1201 commits        ██████████░░░░░░░░░░░░░░░   38.32 % 
+🌞 Morning                302 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+🌆 Daytime                848 commits         ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+🌃 Evening                734 commits         ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+🌙 Night                  1201 commits        ██████████░░░░░░░░░░░░░░░   38.93 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   298 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Tuesday                  368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Wednesday                702 commits         ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
-Thursday                 442 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Friday                   278 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Saturday                 665 commits         █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-Sunday                   381 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Monday                   291 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Tuesday                  347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Wednesday                691 commits         ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+Thursday                 432 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Friday                   278 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Saturday                 665 commits         █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+Sunday                   381 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
 ```
 
 
@@ -87,34 +87,54 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Rust                     0 secs              ███████████████████░░░░░░   75.24 % 
-Text                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+Other                    1 min               █████████████████░░░░░░░░   68.29 % 
+Rust                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+Text                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+Claude Code              1 min               ████████████████░░░░░░░░░   64.70 % 
+VS Code                  0 secs              █████████░░░░░░░░░░░░░░░░   35.30 % 
 
 🐱‍💻 Projects: 
-mvdis-license-plate-query0 secs              ███████████████████░░░░░░   75.24 % 
-Unknown Project          0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+license-portal-backend   1 min               █████████████████░░░░░░░░   68.29 % 
+mvdis-license-plate-query0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+Unknown Project          0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+Linux                    1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 min (68.29%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 123,509 Input Tokens, 2,591 Output Tokens
+
+💵 $0.85 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 375 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Svelte** 
 
 ```text
-Svelte                   20 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-TypeScript               15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Python                   12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Rust                     11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Svelte                   19 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+TypeScript               15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Python                   12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Rust                     11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 ```
 
 
@@ -124,7 +144,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 02:05:12 UTC
+ Last Updated on 08/10/2026 02:28:43 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
