@@ -63,21 +63,21 @@ Hello! I am from Taiwan and currently a student at the [National Taiwan Universi
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                302 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-🌆 Daytime                847 commits         ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-🌃 Evening                734 commits         ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
-🌙 Night                  1201 commits        ██████████░░░░░░░░░░░░░░░   38.94 % 
+🌞 Morning                302 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+🌆 Daytime                842 commits         ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+🌃 Evening                734 commits         ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+🌙 Night                  1191 commits        ██████████░░░░░░░░░░░░░░░   38.81 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   291 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Tuesday                  347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Wednesday                690 commits         ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-Thursday                 432 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Friday                   278 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Saturday                 665 commits         █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-Sunday                   381 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Monday                   291 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Tuesday                  347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Wednesday                690 commits         ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+Thursday                 431 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Friday                   278 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Saturday                 651 commits         █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+Sunday                   381 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
 ```
 
 
@@ -139,7 +139,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 03:23:34 UTC
+ Last Updated on 14/10/2026 01:37:38 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
