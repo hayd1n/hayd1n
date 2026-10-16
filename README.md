@@ -63,21 +63,21 @@ Hello! I am from Taiwan and currently a student at the [National Taiwan Universi
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                284 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-🌆 Daytime                793 commits         ███████░░░░░░░░░░░░░░░░░░   26.34 % 
-🌃 Evening                733 commits         ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-🌙 Night                  1201 commits        ██████████░░░░░░░░░░░░░░░   39.89 % 
+🌞 Morning                274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+🌆 Daytime                782 commits         ███████░░░░░░░░░░░░░░░░░░   26.16 % 
+🌃 Evening                732 commits         ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+🌙 Night                  1201 commits        ██████████░░░░░░░░░░░░░░░   40.18 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   281 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Tuesday                  317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Wednesday                677 commits         ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-Thursday                 415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Friday                   275 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Saturday                 665 commits         ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-Sunday                   381 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Monday                   277 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Tuesday                  316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Wednesday                666 commits         ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+Thursday                 410 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Friday                   274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Saturday                 665 commits         ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+Sunday                   381 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
 ```
 
 
@@ -108,11 +108,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Svelte** 
 
 ```text
-Svelte                   19 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-TypeScript               15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Python                   12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Rust                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Svelte                   19 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+TypeScript               15 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Python                   12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Rust                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 ```
 
 
@@ -122,7 +122,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 01:15:41 UTC
+ Last Updated on 16/10/2026 01:02:17 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
