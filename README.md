@@ -87,37 +87,40 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   100.00 % 
+Other                    1 hr 8 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             2 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 6 mins         ████████████████████████░   96.65 % 
+Codex Vscode             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 🐱‍💻 Projects: 
-s                        2 mins              █████████████████████████   100.00 % 
+1006_行前說明會               1 hr 6 mins         ████████████████████████░   96.44 % 
+s                        2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+wur                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (100.0%)
+⏱ AI Coding Time: 1 hr 8 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 65,088 Input Tokens, 1,344 Output Tokens
+🔤 340,003 Input Tokens, 35,350 Output Tokens
 
-💵 $0.18 Estimated AI Cost This Week
+💵 $8.93 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 3 AI Sessions, 13 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 64 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📄 Detailed Prompter — average 548 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -138,7 +141,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 02:06:57 UTC
+ Last Updated on 30/10/2026 02:25:31 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
