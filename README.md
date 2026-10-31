@@ -58,7 +58,7 @@ Hello! I am from Taiwan and currently a student at the [National Taiwan Universi
 ## 📊 Analysis
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -87,40 +87,42 @@ Sunday                   381 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    1 hr 8 mins         █████████████████████████   100.00 % 
+Other                    2 hrs 11 mins       ███████████████████████░░   93.50 % 
+Text                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         ████████████████████████░   96.65 % 
-Codex Vscode             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+VS Code                  2 hrs 3 mins        ██████████████████████░░░   87.70 % 
+Codex Vscode             17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 
 🐱‍💻 Projects: 
-1006_行前說明會               1 hr 6 mins         ████████████████████████░   96.44 % 
-s                        2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-wur                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+1006_行前說明會               2 hrs 9 mins        ███████████████████████░░   91.76 % 
+Unknown Project          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+s                        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+wur                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
+Mac                      2 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 8 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 12 mins (94.04%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 340,003 Input Tokens, 35,350 Output Tokens
+🔤 412,895 Input Tokens, 44,527 Output Tokens
 
-💵 $8.93 Estimated AI Cost This Week
+💵 $11.70 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 13 AI Prompts
+🧠 4 AI Sessions, 27 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 548 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 551 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -141,7 +143,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayd1n/hayd1n/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 02:25:31 UTC
+ Last Updated on 31/10/2026 02:01:47 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CRT-HAO&style=flat-square)
